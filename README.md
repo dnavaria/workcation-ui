@@ -7,4 +7,4 @@
 
 
 # Mobile UI Screenshots
-![Mobile UI](./ui-screenshots/responsive-ui-screenshot-mobile.jpg)
+![Mobile UI](./ui-screenshots/responsive-ui-screenshot-mobile.png)
